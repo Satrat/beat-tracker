@@ -14,7 +14,7 @@ Evaluation function for calculating # of hits, false positive and false negative
 ### example_inference.ipynb
 demonstration of running the beat tracking algorithm on a single input file
 
-## graphs_and_stats.ipynb
+### graphs_and_stats.ipynb
 Plots output at different stages of the algorithm and reports overall accuracy on the Ballroom dataset
 
 ## How to Run
